@@ -2,7 +2,7 @@
 Hosted in Firebase -> [Live Demo](https://chef-hunter-faeae.web.app)
 
 ## Surver Side Link
-Hosted in Firebase -> [Live Demo](https://chef-server-iamshihabpro.vercel.app/data)
+Hosted in Vercel -> [Live Demo](https://chef-server-iamshihabpro.vercel.app/data)
 
 ## Github Server Link
 Github Repo -> [react-project](https://github.com/IamShihabPro/chef-server)
